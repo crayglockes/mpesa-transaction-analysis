@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/7--Day-Portfolio-FF69B4)](https://github.com/topics/portfolio)
 
-> **[View Final Analysis Report (HTML)](https://YOUR_USERNAME.github.io/mpesa-transaction-analysis/reports/05_final_report.html)**
+> **[View Final Analysis Report (HTML)](https://crayglockes.github.io/mpesa-transaction-analysis/reports/05_final_report.html)**
 
 > End-to-end data science project analysing behavioural patterns,
 > user segmentation, and fraud signals in mobile money transactions.
