@@ -3,7 +3,7 @@
 > End-to-end data science project analysing behavioural patterns,
 > user segmentation, and fraud signals in mobile money transactions.
 
-> **[View Final Analysis Report (HTML)](https://crayglockes.github.io/mpesa-transaction-analysis/reports/05_final_report.html)**
+**[📊 Analysis Report →](https://crayglockes.github.io/mpesa-transaction-analysis/reports/05_final_report.html)**
 
 ## Analysis Pipeline
 
